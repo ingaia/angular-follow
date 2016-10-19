@@ -1,0 +1,10 @@
+{
+  "name": "angular-follow",
+  "version": "1.0.0",
+  "description": "angular-follow",
+  "main": "./angular-follow.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingaia/angular-follow.git"
+  }
+}
